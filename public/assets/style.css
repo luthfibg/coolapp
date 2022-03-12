@@ -1,0 +1,15 @@
+/* css style for app here*/
+body {
+    min-height: 3000px;
+}
+#navbarNav ul li a:active,
+a:hover {
+    color: azure !important;
+}
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #faf79f;
+}
+#projects {
+    background-color: #faf79f;
+}
